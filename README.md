@@ -56,4 +56,4 @@ http://localhost:4200
 Mohammed Abdul Shadab
 ## 📷 Screenshot
 
-![App Screenshot](screenshot.png.png)
+![App Screenshot](screenshot.png)
