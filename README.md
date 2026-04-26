@@ -54,3 +54,6 @@ http://localhost:4200
 ## 👨‍💻 Author
 
 Mohammed Abdul Shadab
+## 📷 Screenshot
+
+![App Screenshot](screenshot.png.png)
