@@ -1,27 +1,56 @@
-# MCart
+# 🛒 Angular Shopping Cart Application (mCart)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+## 📌 Overview
 
-## Development server
+This project is a shopping cart web application developed using Angular.
+It demonstrates core Angular concepts like components, services, routing, and UI interactions.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🚀 Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* User login functionality
+* Product listing
+* Add to cart functionality
+* Navigation between pages
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🛠️ Technologies Used
 
-## Running unit tests
+* Angular
+* TypeScript
+* HTML & CSS
+* Node.js
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## ▶️ How to Run
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+git clone https://github.com/abdulshadab/angular-mcart-app.git
+cd angular-mcart-app
+npm install
+ng serve --open
+```
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 🌐 Output
+
+Runs on:
+http://localhost:4200
+
+---
+
+## ✨ Improvements
+
+* Customized UI styling
+* Cleaned project structure
+* Improved readability
+
+---
+
+## 👨‍💻 Author
+
+Mohammed Abdul Shadab
